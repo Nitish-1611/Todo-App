@@ -8,7 +8,7 @@ This is a simple Todo application built using React.js and Vite.
 
 ## Prerequisites
 
-Before running the app, ensure you have Node.js and npm (or yarn) installed on your machine.
+Before running the app, ensure you have Node.js and npm installed on your machine.
 
 ## Getting Started
 
